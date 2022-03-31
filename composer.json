@@ -13,7 +13,7 @@
     ],
     "require":           {
         "php":                ">=5.5.0",
-        "illuminate/support": "8.*",
+        "illuminate/support": "9.*",
         "intouch/newrelic":   "^2.0"
     },
     "require-dev":       {
